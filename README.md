@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### 💫 About Me:
-🔭 I’m currently working on landslide thresholds in Peru ![image](https://user-images.githubusercontent.com/34458589/176035710-4f1bb677-dd81-4173-b455-6dc4a23d49be.png)
-<br>👯 I’m looking to collaborate on hydrology and debris flow<br>🌱 I’m currently learning python and Basement<br>💬 Ask me about life and science<br>📫 How to reach me: cmillanarancibia@gmail.com / cmillan@senamhi.gob.pe
+📚 I’m currently working on landslide thresholds in Peru<br>👯 I’m looking to collaborate on hydrology and debris flow<br>🌱 I’m currently learning python and Basement<br>💬 Ask me about life and science<br>📫 How to reach me: cmillanarancibia@gmail.com / cmillan@senamhi.gob.pe
 
 
 ### 💻 Tech Stack:
