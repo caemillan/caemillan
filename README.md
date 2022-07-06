@@ -2,7 +2,7 @@
 ### 💫 About Me:
 My research focuses on landslide hydrology and thresholds for shallow landslide warning systems. My background is in hillslope hydrology and debris flow modeling of surface hydrological processes.\
 📚 I’m currently working on landslide thresholds in Peru.<br>
-💻 I manage a landslide monitoring sites system ([SILVIA](https://www.senamhi.gob.pe/?p=monitoreo-silvia)) and the national shallow landslide inventory database of SENAMHI ([SLIlP](https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b)).<br>👯 I’m looking to collaborate on hydrology and debris flow<br>🌱 I’m currently learning python and Basement<br>💬 Ask me about life and science<br>📫 How to reach me: cmillanarancibia@gmail.com / cmillan@senamhi.gob.pe
+💻 I manage a landslide monitoring sites system ([SILVIA](https://www.senamhi.gob.pe/?p=monitoreo-silvia)) and the national shallow landslide inventory database of SENAMHI ([SLIP](https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b)).<br>👯 I’m looking to collaborate on hydrology and debris flow<br>🌱 I’m currently learning python and Basement<br>💬 Ask me about life and science<br>📫 How to reach me: cmillanarancibia@gmail.com / cmillan@senamhi.gob.pe
 
 
 ### :octocat: Tech Stack:
